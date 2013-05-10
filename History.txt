@@ -1,0 +1,62 @@
+=== 1.2.2
+Removed autoload and replaced them to require
+
+=== 1.2.1
+Fixed bug and merged pull request from caron10
+
+=== 1.2.0
+Separeted terminology packages
+Catch up to Ruby 2.0.0
+
+=== 1.1.5 & 1.1.6
+Fixed some miss spells
+Implemented OpenEHR::RM::Factory class
+
+=== 1.1.4
+Parser bug fixed around  DvDuration pattern/interval.
+
+=== 1.1.3
+am/openehr_profile/quantity hierachy
+
+=== 1.1.2
+parser assigns nil for empty use in DESCRIPTION section
+
+=== 1.1.1
+parser bug fixed around openehr/am/openehr_profile/data_types/quantity
+
+=== 1.1.0
+open_ehr package will change to openehr.
+
+=== 1.0.2 2012-02-27
+Some bugs indicated form Travis-CI
+
+=== 1.0.1 2012-01-15
+C_ANY related fix
+
+=== 1.0.0 2011-12-24
+First stable release 
+
+=== 0.9.5 2011-12-02
+Bug fix around ADL parser, data types, constranit
+
+=== 0.9.4 2011-11-22
+Bug fix around ADL parser, ArchetypeOntology
+
+=== 0.9.3 2011-11-19
+Bug fix around ADL parser
+
+=== 0.9.1 2011-10-04
+Archetype instance generated from ADL file.
+
+=== 0.9.0 2011-09
+* Fixed ADL parser and AOM generation
+
+=== 0.7.0 2011-05
+* Fixed ADL parser library
+
+=== 0.6.2 2011-05-09
+* Fixed some package hierachy
+
+=== 0.6.1 2011-05-09
+
+* First gem package release
